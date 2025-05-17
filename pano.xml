@@ -93,7 +93,6 @@
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
       <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
-      <hotspot description="" title="" pan="-275.53" url="" skinid="ht_url" target="_blank" tilt="-3.37" id="Point02"/>
       <hotspot distance="3.58861" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-372.247" url="{node1}" skinid="ht_node"/>
       <hotspot distance="3.75625" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-537.507" url="{node5}" skinid="ht_node"/>
       <hotspot distance="2.82703" target="$fwd" tilt="0" id="Point04" description="" title="SHOP" pan="-632.201" url="{node3}" skinid="ht_node"/>
