@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" hassounds="0" appversion="7.1.7" apprev="20981">
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-168.986">
+      <start pan="178.711" fov="100" projection="4" tilt="-3.22408"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-168.986" datetime="16/05/2025 18:49" info="" latitude="-26.98884976" longitude="-48.63291096" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node1" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.52891" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-264.156" url="{node2}" skinid="ht_node"/>
+      <hotspot distance="3.58861" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-181.715" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="543.463">
+      <start pan="179.476" fov="100" projection="4" tilt="-1.51165"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="543.463" datetime="16/05/2025 18:50" info="" latitude="-26.98885262" longitude="-48.63287549" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node2" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.52891" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="628.293" url="{node1}" skinid="ht_node"/>
+      <hotspot distance="3.68747" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="541.908" url="{node3}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-178.616">
+      <start pan="-178.657" fov="100" projection="4" tilt="1.88732"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-178.616" datetime="16/05/2025 18:51" info="" latitude="-26.98881947" longitude="-48.63287448" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node3" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.68747" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-0.17117" url="{node2}" skinid="ht_node"/>
+      <hotspot distance="3.8581" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-181.59" url="{node6}" skinid="ht_node"/>
+      <hotspot distance="2.82703" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-91.2988" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-539.518">
+      <start pan="179.19" fov="100" projection="4" tilt="3.05589"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-539.518" datetime="16/05/2025 18:52" info="" latitude="-26.98881828" longitude="-48.63290298" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node4" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot description="" title="" pan="-275.53" url="" skinid="ht_url" target="_blank" tilt="-3.37" id="Point02"/>
+      <hotspot distance="3.58861" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-372.247" url="{node1}" skinid="ht_node"/>
+      <hotspot distance="3.75625" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-537.507" url="{node5}" skinid="ht_node"/>
+      <hotspot distance="2.82703" target="$fwd" tilt="0" id="Point04" description="" title="SHOP" pan="-632.201" url="{node3}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-179.985">
+      <start pan="179.789" fov="100" projection="4" tilt="-2.22156"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-179.985" datetime="16/05/2025 18:53" info="" latitude="-26.98878452" longitude="-48.63290431" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node5" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.75625" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-357.974" url="{node4}" skinid="ht_node"/>
+      <hotspot distance="4.55672" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-177.467" url="{node8}" skinid="ht_node"/>
+      <hotspot distance="3.15604" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-270.591" url="{node6}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-171.121">
+      <start pan="-177.81" fov="100" projection="4" tilt="-1.02113"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-171.121" datetime="16/05/2025 18:53" info="" latitude="-26.98878482" longitude="-48.63287246" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node6" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.8581" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="5.90525" url="{node3}" skinid="ht_node"/>
+      <hotspot distance="4.42175" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-178.459" url="{node7}" skinid="ht_node"/>
+      <hotspot distance="3.15604" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-81.7266" url="{node5}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-169.02">
+      <start pan="-173.557" fov="100" projection="4" tilt="-3.39278"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-169.02" datetime="16/05/2025 18:54" info="" latitude="-26.98874538" longitude="-48.63286676" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node7" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.42175" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="3.64161" url="{node6}" skinid="ht_node"/>
+      <hotspot distance="3.90186" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-184.847" url="{node10}" skinid="ht_node"/>
+      <hotspot distance="3.92591" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-81.9423" url="{node8}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-178.747">
+      <start pan="-167.454" fov="100" projection="4" tilt="1.64503"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-178.747" datetime="16/05/2025 18:55" info="" latitude="-26.98874358" longitude="-48.63290633" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node8" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.25609" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-166.256" url="{node9}" skinid="ht_node"/>
+      <hotspot distance="4.55672" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-356.229" url="{node5}" skinid="ht_node"/>
+      <hotspot distance="3.92591" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-271.669" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-191.831">
+      <start pan="177.13" fov="100" projection="4" tilt="0.138966"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-191.831" datetime="16/05/2025 18:55" info="" latitude="-26.98870621" longitude="-48.63291562" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node9" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.25609" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-359.34" url="{node8}" skinid="ht_node"/>
+      <hotspot distance="5.274" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-185.943" url="{node15}" skinid="ht_node"/>
+      <hotspot distance="5.93605" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-287.647" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="194.583">
+      <start pan="-177.1" fov="100" projection="4" tilt="-2.01417"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="194.583" datetime="16/05/2025 18:55" info="" latitude="-26.98871162" longitude="-48.63285602" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node10" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.90186" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="358.756" url="{node7}" skinid="ht_node"/>
+      <hotspot distance="5.05257" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="187.792" url="{node11}" skinid="ht_node"/>
+      <hotspot distance="5.93605" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="278.767" url="{node9}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="185.536">
+      <start pan="-174.982" fov="100" projection="4" tilt="-7.61217"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="185.536" datetime="16/05/2025 18:56" info="" latitude="-26.98866650" longitude="-48.63284999" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node11" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.62786" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="267.129" url="{node13}" skinid="ht_node"/>
+      <hotspot distance="3.42917" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="86.6194" url="{node12}" skinid="ht_node"/>
+      <hotspot distance="5.05257" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="358.745" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-172.399">
+      <start pan="84.3439" fov="100" projection="4" tilt="-7.63605"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-172.399" datetime="16/05/2025 18:56" info="" latitude="-26.98867128" longitude="-48.63281580" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node12" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.42917" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-91.3156" url="{node11}" skinid="ht_node"/>
+      <hotspot distance="4.23566" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-177.351" url="{node21}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="182.584">
+      <start pan="177.357" fov="100" projection="4" tilt="-0.924997"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="182.584" datetime="16/05/2025 18:57" info="" latitude="-26.98866173" longitude="-48.63288621" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node13" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.46813" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="267.618" url="{node15}" skinid="ht_node"/>
+      <hotspot distance="3.62786" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="84.1771" url="{node11}" skinid="ht_node"/>
+      <hotspot distance="4.17905" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="176.199" url="{node22}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-173.776">
+      <start pan="-174.508" fov="100" projection="4" tilt="-5.09198"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-173.776" datetime="16/05/2025 18:57" info="" latitude="-26.98865903" longitude="-48.63292108" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node15" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="5.274" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-347.888" url="{node9}" skinid="ht_node"/>
+      <hotspot distance="3.32384" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-82.0506" url="{node16}" skinid="ht_node"/>
+      <hotspot distance="3.46813" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-268.742" url="{node13}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-193.018">
+      <start pan="174.809" fov="100" projection="4" tilt="-3.52613"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-193.018" datetime="16/05/2025 18:58" info="" latitude="-26.98865993" longitude="-48.63295461" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node16" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.32384" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-281.293" url="{node15}" skinid="ht_node"/>
+      <hotspot distance="3.06605" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-188.049" url="{node17}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="171.038">
+      <start pan="178.392" fov="100" projection="4" tilt="-4.51395"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="171.038" datetime="16/05/2025 18:59" info="" latitude="-26.98863246" longitude="-48.63295729" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node17" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.06605" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-3.99341" url="{node16}" skinid="ht_node"/>
+      <hotspot distance="5.09081" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="174.039" url="{node18}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-88.5044">
+      <start pan="-174.856" fov="100" projection="4" tilt="-3.39547"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-88.5044" datetime="16/05/2025 19:00" info="" latitude="-26.98858674" longitude="-48.63295998" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node18" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="5.09081" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-265.503" url="{node17}" skinid="ht_node"/>
+      <hotspot distance="8.27193" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-178.035" url="{node19}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-91.6908">
+      <start pan="176.388" fov="100" projection="4" tilt="-6.00449"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-91.6908" datetime="16/05/2025 19:00" info="" latitude="-26.98858613" longitude="-48.63287650" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node19" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.28219" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="81.6388" url="{node22}" skinid="ht_node"/>
+      <hotspot distance="6.29174" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-185.034" url="{node20}" skinid="ht_node"/>
+      <hotspot distance="8.27193" target="$fwd" tilt="0" id="Point03" description="" title="SHOP" pan="-1.22096" url="{node18}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-79.9345">
+      <start pan="2.66958" fov="100" projection="4" tilt="-0.290703"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-79.9345" datetime="16/05/2025 19:00" info="" latitude="-26.98858943" longitude="-48.63281311" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node20" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="6.29174" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="6.72204" url="{node19}" skinid="ht_node"/>
+      <hotspot distance="4.88246" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-258.772" url="{node21}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="3.99956">
+      <start pan="-0.852956" fov="100" projection="4" tilt="-4.36765"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="3.99956" datetime="16/05/2025 19:01" info="" latitude="-26.98863333" longitude="-48.63281211" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node21" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.23566" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="179.048" url="{node12}" skinid="ht_node"/>
+      <hotspot distance="4.88246" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="5.16241" url="{node20}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1520" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-177.033">
+      <start pan="178.759" fov="100" projection="4" tilt="-4.35849"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata heading="-177.033" datetime="16/05/2025 19:02" info="" latitude="-26.98862438" longitude="-48.63288152" tags="OFIII" source="" description="" title="SHOP" author="" comment="" nodeid="node22" customnodeid="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label enabled="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" width="180" background="1" borderradius="1" wordwrap="1" backgroundalpha="1" height="20"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.17905" target="$fwd" tilt="0" id="Point01" description="" title="SHOP" pan="-3.4175" url="{node13}" skinid="ht_node"/>
+      <hotspot distance="4.28219" target="$fwd" tilt="0" id="Point02" description="" title="SHOP" pan="-183.703" url="{node19}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" type="mesh" zoomafteroutfov="40" zoomin="7" blendtime="1" zoomfov="40" delay="none" zoomoutpause="1" zoomafterinfov="140" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" contextvr="1" hideabout="0" simulatemass="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" title="" author="" comment="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
